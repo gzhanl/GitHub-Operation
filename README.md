@@ -25,7 +25,7 @@ $ git remote add origin git@github.com:gzhanl/AAA.git
 
 
 ## 2.修改本地代码并同步上傳到GitHub  
-1.git add (-A /-u /.)
+1.git add (-A /-u /.)  
 · git add -A 提交所有变化   
 · git add -u 提交被修改(modified)和被删除(deleted)文件，不包括新文件(new)   
 · git add . 提交新文件(new)和被修改(modified)文件，不包括被删除(deleted)文件  
