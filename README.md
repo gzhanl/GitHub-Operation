@@ -33,3 +33,13 @@ $ git remote add origin git@github.com:gzhanl/AAA.git
 2.git commit -m 'x'
 
 3.git push -u origin master
+
+## 3.修改远程代码后同步到本地仓库
+
+例如我修改了 readme.md
+
+1.git fetch origin
+2.git merge origin/master
+
+
+
