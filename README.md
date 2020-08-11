@@ -42,9 +42,9 @@ $ git remote add origin git@github.com:gzhanl/AAA.git
 2.git merge origin/master  
 
 ## 4.放弃本地的修改，不commit,直接pull最新代码
-1.git fetch --all//从远程拉取所有内容  
-2.git reset --hard origin/master//reset 本地代码    
-3.git pull//重启拉取对齐 
+1.git fetch --all //从远程拉取所有内容  
+2.git reset --hard origin/master //reset 本地代码    
+3.git pull //重启拉取对齐 
 
 
 
