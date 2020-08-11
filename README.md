@@ -38,8 +38,8 @@ $ git remote add origin git@github.com:gzhanl/AAA.git
 
 例如我修改了 readme.md
 
-1.git fetch origin
-2.git merge origin/master
+1.git fetch origin  
+2.git merge origin/master  
 
 
 
